@@ -1,1 +1,1 @@
-﻿this is not js
+﻿alert("Hello! I am an alert box for jerbi !!");
